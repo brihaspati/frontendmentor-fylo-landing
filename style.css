@@ -1,0 +1,17 @@
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  overflow-x: hidden;
+  min-height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: grid;
+  grid-gap: 20px;
+}
